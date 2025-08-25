@@ -26,9 +26,8 @@
 
 - **前端**：Java Swing (桌面 GUI)
 - **後端**：JDBC + MySQL
-- **設計模式**：MVC、DAO、Service Layer
+- **設計模式**：MVC、DAO
 - **報表**：JFreeChart、Apache POI
-- **安全性**：SHA-256 密碼雜湊
 
 專案目錄結構：
 ```
