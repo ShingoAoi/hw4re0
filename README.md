@@ -1,6 +1,6 @@
 # 作業四-桌面單機版電商平台
 
-這是一個以 **Java Swing + JDBC + MVC/DAO 架構** 開發的桌面電商平台，完整涵蓋從前台購物到後台管理的流程。
+這是一個以 **Java Swing + JDBC + MVC/DAO 架構** 開發的桌面電商平台，涵蓋從前台購物到後台管理的流程。
 
 ---
 
@@ -24,7 +24,7 @@
 
 ## 系統架構
 
-- **前端**：Java Swing (桌面 GUI)
+- **前端**：Java Swing（桌面 GUI）
 - **後端**：JDBC + MySQL
 - **設計模式**：MVC、DAO
 - **專案管理**：Maven
