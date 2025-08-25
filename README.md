@@ -9,7 +9,7 @@
 ### 前台
 - 商品瀏覽與分類
 - 訪客購物（免登入即可下單）
-- 會員註冊、登入（密碼雜湊處理）
+- 會員登入
 - 購物車與結帳流程
 - 訂單查詢與取消訂單
 
@@ -27,6 +27,7 @@
 - **前端**：Java Swing (桌面 GUI)
 - **後端**：JDBC + MySQL
 - **設計模式**：MVC、DAO
+- **專案管理**：Maven
 - **報表**：JFreeChart、Apache POI
 
 專案目錄結構：
@@ -62,7 +63,6 @@ https://hackmd.io/@Khd4jo19ReO7Jo_2tpsTuQ/ByLErwFYgx/slides
 
 ### 會員 (Member)
 - **功能**
-  - 註冊帳號
   - 登入系統
   - 瀏覽與購物
   - 檢視歷史訂單
