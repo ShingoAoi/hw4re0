@@ -37,7 +37,7 @@
 │ │ └─ impl/
 │ ├─ model/
 │ ├─ service/
-│ │ └─ impl/│ 
+│ │ └─ impl/
 └─└─ util/
 ```
 
