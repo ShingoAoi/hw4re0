@@ -50,7 +50,7 @@ https://hackmd.io/@Khd4jo19ReO7Jo_2tpsTuQ/ByLErwFYgx/slides
 
 本文件將說明不同角色在系統中的操作方式。
 
-### 🎯 訪客 (Guest)
+### 訪客 (Guest)
 - **功能**
   - 瀏覽商品
   - 加入購物車
@@ -61,7 +61,7 @@ https://hackmd.io/@Khd4jo19ReO7Jo_2tpsTuQ/ByLErwFYgx/slides
 
 ---
 
-### 👤 會員 (Member)
+### 會員 (Member)
 - **功能**
   - 註冊帳號
   - 登入系統
@@ -74,7 +74,7 @@ https://hackmd.io/@Khd4jo19ReO7Jo_2tpsTuQ/ByLErwFYgx/slides
 
 ---
 
-### 🧑‍💼 店員 (Staff)
+### 店員 (Staff)
 - **功能**
   - 登入後台管理介面
   - 商品 CRUD（新增 / 修改 / 下架）
@@ -85,7 +85,7 @@ https://hackmd.io/@Khd4jo19ReO7Jo_2tpsTuQ/ByLErwFYgx/slides
 
 ---
 
-### 👨‍💼 店長 (Manager)
+### 店長 (Manager)
 - **功能**
   - 登入後台最高權限
   - 管理商品、會員、員工
